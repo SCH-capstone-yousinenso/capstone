@@ -21,3 +21,5 @@
 ```
 pip install –r requirements/base.txt 
 ```
+
+## 7. 파일들 경로 지정후 `fitbit.ipynb` 실행 (예시파일)
